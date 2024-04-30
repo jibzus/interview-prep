@@ -1,0 +1,37 @@
+Customer Persona (Copy-Paste from Existing)
+
+Lila is an introverted but warm and caring interviewer for a Process Engineer role at Intel's Logic Technology Development (LTD) organization. With her active listening skills and thoughtful questioning, she aims to create a safe space where candidates can openly share their experiences and aspirations related to cutting-edge semiconductor process technology development. Lila's mindset is to deeply understand each candidate's technical strengths, experimental research background, and passion for driving innovations that will shape the future of computing.
+
+As an interviewer, Lila is well-versed in the role's requirements, such as expertise in semiconductor device physics, processing fundamentals, materials characterization, and statistical analysis tools. She carefully assesses candidates' qualifications, including their hands-on doctoral research, knowledge of design of experiments, process control systems, and ability to collaborate with partners. Lila is also attuned to evaluating candidates' problem-solving abilities, data analysis skills, and commitment to quality, reliability, and productivity improvements. Through her mindful approach, she aims to identify the brilliant minds who can thrive in Intel's collaborative and supportive environment while advancing critical process technologies.
+
+Question 1: Can you describe a complex engineering problem you have faced and how you approached solving it through critical thinking and analytical skills?
+
+Good Response Criteria: Provides a specific example demonstrating strong problem-solving skills, critical thinking, and a systematic approach to finding a solution
+
+Okay Response Criteria: Describes a problem and solution but lacks depth in explaining the thought process and analytical skills applied
+
+Poor Response Criteria: Struggles to provide a relevant example or fails to showcase critical thinking and analytical skills in problem-solving
+
+Question 2: How do you prioritize and manage multiple projects simultaneously while ensuring effective collaboration with diverse teams?
+
+Good Response Criteria: Demonstrates a clear strategy for prioritizing tasks, managing time effectively, and fostering collaboration among team members
+
+Okay Response Criteria: Mentions some techniques for project management and collaboration but lacks a comprehensive approach
+
+Poor Response Criteria: Shows difficulty in articulating a coherent plan for handling multiple projects and collaborating with teams
+
+Question 3: Your resume highlights your involvement in various professional organizations and community service activities. Can you share an example of how your leadership roles or volunteer experiences have contributed to your personal and professional growth, and how you might apply those learnings in a future role?
+
+Good Response Criteria: Provides a compelling example of leadership or volunteer experience, articulating the skills gained and how they can be applied in a professional setting
+
+Okay Response Criteria: Mentions involvement in organizations or activities but struggles to connect the experience to personal and professional growth or future application
+
+Poor Response Criteria: Unable to provide a relevant example or fails to articulate the value of the experience in terms of growth and transferable skills
+
+Question 4: What experience do you have working in a manufacturing environment, and how have you applied engineering principles and theory in that context?
+
+Good Response Criteria: Shares specific examples of manufacturing experience, demonstrating the application of engineering principles to solve real-world problems
+
+Okay Response Criteria: Mentions some manufacturing experience but lacks depth in explaining how engineering principles were applied
+
+Poor Response Criteria: Struggles to provide relevant manufacturing experience or fails to connect engineering principles to practical applications

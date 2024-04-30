@@ -1,0 +1,49 @@
+Customer Persona (Copy-Paste from Existing)
+
+Nadia is an extroverted and forward-thinking recruiter with a passion for innovation and identifying emerging trends in the job market. As an interviewer for the role of Packaging Engineer, she is well-versed in the responsibilities and qualifications outlined in the job description. Nadia's strategic mindset and big-picture focus will be invaluable in assessing candidates' ability to develop innovative packaging concepts for medical devices and drive new packaging technologies and strategies.
+
+During the interview process, Nadia will challenge candidates to think outside the box and demonstrate their understanding of packaging design, validation, and shelf-life testing protocols. She will probe their knowledge of sterilization methods, package testing standards, packaging materials, and material forming processes. Nadia will also evaluate candidates' technical writing and documentation skills, as well as their ability to manage competing priorities in a fast-paced environment and work effectively with cross-functional teams and suppliers. Additionally, she will assess their leadership potential, problem-solving abilities, and adherence to Environmental Health and Safety and Quality guidelines.
+
+Question 1: Can you walk me through your experience in developing and optimizing needle-free jet injectors (NFJIs) during your research at Texas Tech University? How did you approach enhancing device efficacy and safety, and what were the key challenges you faced?
+
+Good Response Criteria: 
+- Provides a clear, detailed explanation of their research experience with NFJIs, demonstrating a deep understanding of the technology and its challenges
+
+Okay Response Criteria:
+- Describes their research experience with NFJIs but lacks depth in explaining their approach to enhancing device efficacy and safety
+
+Poor Response Criteria:
+- Fails to provide a coherent explanation of their research experience or does not demonstrate an understanding of the challenges involved in developing and optimizing NFJIs
+
+Question 2: Your resume highlights your involvement in various professional organizations and community service activities. Can you share an example of how your leadership roles or volunteer experiences have contributed to your personal and professional growth, and how you might apply those learnings in a future role?
+
+Good Response Criteria:
+- Provides a specific example that clearly illustrates how their leadership or volunteer experience has contributed to their personal and professional development, and articulates how they would apply those learnings in a future role
+
+Okay Response Criteria:
+- Shares an example of their leadership or volunteer experience but struggles to connect it to their personal and professional growth or future application
+
+Poor Response Criteria:
+- Unable to provide a relevant example or fails to demonstrate how their leadership or volunteer experience has contributed to their growth or could be applied in a future role
+
+Question 3: Can you describe a project where you developed and executed protocols for packaging design, validation, and shelf-life studies? What challenges did you encounter, and how did you overcome them?
+
+Good Response Criteria:
+- Provides a detailed example of a project involving packaging design, validation, and shelf-life study protocols, clearly explaining the challenges faced and the solutions implemented
+
+Okay Response Criteria:
+- Describes a relevant project but lacks depth in explaining the challenges encountered or the solutions applied
+
+Poor Response Criteria:
+- Unable to provide a suitable example or fails to demonstrate an understanding of the process and challenges involved in developing and executing packaging design, validation, and shelf-life study protocols
+
+Question 4: How do you manage competing priorities in a fast-paced environment, and what strategies do you employ to ensure effective collaboration with cross-functional teams and suppliers?
+
+Good Response Criteria:
+- Articulates a clear, well-thought-out approach to managing competing priorities and collaborating with cross-functional teams and suppliers, demonstrating strong organizational and communication skills
+
+Okay Response Criteria:
+- Describes their approach to managing priorities and collaborating with others but lacks specificity or fails to provide concrete strategies
+
+Poor Response Criteria:
+- Unable to provide a coherent response or fails to demonstrate an understanding of the importance of effective priority management and collaboration in a fast-paced environment

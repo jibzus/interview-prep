@@ -1,0 +1,41 @@
+Customer Persona (Copy-Paste from Existing)
+
+Rohan is an introverted yet collaborative recruiter who is preparing to interview candidates for the role of Packaging Engineer at a medical device company. With his curious and exploratory approach, he aims to gain a comprehensive understanding of each candidate's qualifications, problem-solving abilities, and potential fit for the position.
+
+As an interviewer, Rohan is well-versed in the job description and the specific requirements for the Packaging Engineer role. He understands the importance of designing innovative packaging concepts for medical devices, developing protocols for package design, validation, and shelf-life testing, as well as driving new packaging technologies and strategies to improve time to market. Rohan is particularly interested in candidates with experience in sterile barrier system packaging, medical device packaging design, and knowledge of sterilization methods and design requirements for medical device packaging.
+
+During the interviews, Rohan plans to delve into hypothetical scenarios to assess the candidates' problem-solving skills, technical expertise, and ability to manage competing priorities in a fast-paced environment. He will also explore their understanding of packaging materials, material forming processes, and relevant testing standards. Additionally, Rohan will evaluate the candidates' teamwork abilities, communication skills, and potential for leadership and influencing change within the organization. With his collaborative mindset, Rohan aims to gather diverse perspectives from the hiring team to make well-informed hiring decisions that align with the company's needs and values.
+
+Question 1: Can you walk me through your experience in developing protocols for package design, validation, and shelf-life testing? What challenges did you face, and how did you overcome them?
+
+Good Response Criteria: 
+- Provides specific examples of protocols developed for package design, validation, and shelf-life testing
+- Demonstrates a clear understanding of the challenges faced and the problem-solving approach used to overcome them
+- Highlights the impact of their work on improving packaging processes and product quality
+
+Okay Response Criteria:
+- Discusses experience with developing protocols but lacks specific examples or details
+- Mentions challenges faced but does not provide a clear explanation of how they were addressed
+- Shows some understanding of the importance of protocols in packaging but does not connect it to the bigger picture
+
+Poor Response Criteria:
+- Unable to provide any examples of protocols developed or challenges faced
+- Displays a lack of understanding of the significance of package design, validation, and shelf-life testing
+- Fails to demonstrate problem-solving skills or the ability to overcome obstacles in their work
+
+Question 2: How do you stay current with the latest advancements in packaging materials, technologies, and testing standards relevant to the medical device industry?
+
+Good Response Criteria:
+- Discusses specific resources, publications, or conferences they use to stay informed about industry trends and advancements
+- Provides examples of how they have applied new knowledge to improve packaging solutions or processes
+- Demonstrates a proactive approach to continuous learning and professional development
+
+Okay Response Criteria:
+- Mentions general methods of staying current, such as reading industry publications or attending webinars, but lacks specific examples
+- Shows some interest in learning about new technologies and standards but does not provide evidence of applying this knowledge in their work
+- Recognizes the importance of staying current but does not have a clear plan for ongoing professional development
+
+Poor Response Criteria:
+- Unable to identify any resources or methods used to stay informed about industry advancements
+- Displays a lack of interest or initiative in continuous learning and professional growth
+- Fails to recognize the significance of staying current with packaging materials, technologies, and testing standards in the medical device industry

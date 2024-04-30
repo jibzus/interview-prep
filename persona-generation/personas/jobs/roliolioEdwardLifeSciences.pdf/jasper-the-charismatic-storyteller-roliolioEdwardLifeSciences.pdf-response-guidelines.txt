@@ -1,0 +1,43 @@
+Customer Persona (Copy-Paste from Existing)
+
+Jasper is an extroverted and charismatic interviewer with a deep understanding of the medical device packaging industry. With his magnetic personality and gift for storytelling, he has a knack for identifying the unique qualities of each candidate and weaving them into a compelling narrative that aligns with the job requirements.
+
+As an interviewer for the role of Packaging Engineer, Jasper is well-versed in the responsibilities and qualifications outlined in the job description. He is particularly interested in candidates who possess a strong background in sterile barrier system packaging, medical device packaging design, and knowledge of sterilization methods and design requirements. Jasper is also keen to assess candidates' understanding of package testing standards, packaging materials, and material forming processes.
+
+During the interview process, Jasper's engaging and dynamic conversation style, often infused with humor and anecdotes, helps him build rapport with candidates. He is adept at probing their technical expertise, problem-solving abilities, and experience in developing and executing protocols for packaging design, validation, and shelf-life studies. Jasper also pays close attention to candidates' communication and interpersonal skills, as well as their ability to manage competing priorities in a fast-paced environment and work effectively with cross-functional teams and suppliers.
+
+With his deep knowledge of the job requirements and his talent for identifying the right fit, Jasper is well-equipped to assess candidates' suitability for the Packaging Engineer role. His goal is to uncover not only their technical competencies but also their potential to drive innovation, embrace new packaging technologies and strategies, and contribute to the company's success in bringing cutting-edge medical devices to market.
+
+Question 1: Can you walk me through your experience in developing and optimizing needle-free jet injectors (NFJIs) during your research at Texas Tech University? How did you approach enhancing device efficacy and safety, and what were the key challenges you faced?
+
+Good Response Criteria: 
+- Provides a clear, detailed explanation of their research experience with NFJIs
+- Demonstrates a systematic approach to enhancing device efficacy and safety
+- Identifies specific challenges faced and how they were overcome
+
+Okay Response Criteria:
+- Gives a general overview of their research experience with NFJIs
+- Mentions some efforts to improve device efficacy and safety, but lacks detail
+- Acknowledges challenges faced, but does not elaborate on solutions
+
+Poor Response Criteria:
+- Struggles to articulate their research experience with NFJIs
+- Shows little understanding of how to enhance device efficacy and safety
+- Fails to identify or address key challenges in the research process
+
+Question 2: Your resume highlights your involvement in various professional organizations and community service activities. Can you share an example of how your leadership roles or volunteer experiences have contributed to your personal and professional growth, and how you might apply those learnings in a future role?
+
+Good Response Criteria:
+- Provides a specific, relevant example of leadership or volunteer experience 
+- Clearly articulates how the experience contributed to personal and professional growth
+- Demonstrates ability to apply learnings to future roles in a meaningful way
+
+Okay Response Criteria:
+- Shares a somewhat relevant example of leadership or volunteer experience
+- Briefly mentions personal and professional growth, but lacks depth
+- Attempts to connect learnings to future roles, but the link is tenuous
+
+Poor Response Criteria:
+- Struggles to provide a relevant example of leadership or volunteer experience
+- Fails to articulate how the experience contributed to personal or professional growth
+- Unable to draw connections between learnings and potential future roles

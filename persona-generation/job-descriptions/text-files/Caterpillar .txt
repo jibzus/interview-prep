@@ -1,0 +1,144 @@
+Career Area:
+Engineering
+Job Description:
+Your Work Shapes the World at Caterpillar Inc.
+When you join Caterpillar, you're joining a global team who cares not just about the 
+work we do – but also about each other.  We are the makers, problem solvers, and 
+future world builders who are creating stronger, more sustainable communities. 
+We don't just talk about progress and innovation here – we make it happen, with 
+our customers, where we work and live. Together, we are building a better world, 
+so we can all enjoy living in it.
+How Your Work Shapes the World 
+When you join Caterpillar, you're joining a global team who cares not just about the 
+work we do – but also about each other.  We are the makers, problem solvers, and 
+future world builders who are creating stronger, more sustainable communities. 
+We don't just talk about progress and innovation here – we make it happen, with 
+our customers, where we work and live. Together, we are building a better world, 
+so we can all enjoy living in it. ​
+About the Role
+The Engineering Rotational Development Program (ERDP) is all about developing 
+the next generation of industry leaders and technical experts. The purpose of 
+Caterpillar’s Engineering Rotational Development Program is to harness your ability 
+and further develop you through rotational assignments and learning opportunities 
+so that you may not only fulfill your career goals but provide excellent service to 
+Caterpillar and its customers.  Our Engineering Rotational Development Program 
+enhances the experience of engineering graduates transitioning from student to 
+full-time engineer.
+What You Will Do
+You’ll join a team with diverse project responsibilities and have valuable networking 
+opportunities with all levels of Caterpillar employees. This is an entry level 
+engineering position that begins with a 12-18-month long development rotational program focused on building technical abilities in roles including (but not limited 
+to):
+Product Design : Engineer components & systems for Caterpillar products to 
+meet our customers’ needs.  Deliver solutions by leading collaboration with 
+cross functional teams throughout our value chain starting from initial 
+concept through to production.
+Simulation/Performance Analysis : Utilize CFD - Computational Fluid 
+Dynamics (ANSYS), FEA - Finite Element Analysis, 3D modelling, root cause 
+investigation; perform system/subsystem/component design optimization, 
+structural dynamics, development and optimization of Engine, 
+Aftertreatment, Battery, Fuel Cell, Powertrain, and/or Machine System 
+performance.
+Test/Validation : Apply strong mechanical engineering understanding in a 
+test/validation (hands-on) environment, troubleshooting issues, and 
+collaborating with others for optimal results.
+Controls Development : Develop/implement control system algorithms 
+using Matlab/Simulink for various control systems including but not limited 
+to engine controllers, machine implement controllers as well as powertrain 
+controllers. Will be responsible for understanding the feature requirement, 
+implementing it as well as testing it prior to a production roll out.
+Electronic Components : Design and test electronic control modules and 
+electronic components working with internal Caterpillar clients to 
+understand controller/component requirements; help design Printed Circuit 
+Board layouts and perform digital/analog/power circuit analysis and testing. 
+Other duties may include working with suppliers, testing the 
+controllers/components in various environments, ensuring that FMEAs 
+[Failure Mode and Effects Analysis] are conducted and documented to meet 
+stringent Caterpillar quality requirements.
+Embedded Software Development : Develop embedded software in C, C# 
+and/or C++ for electronic control modules. Some examples of embedded 
+software development applications include Datalink communications, Inputs 
+and Outputs [Sensors and actuators], speed calculation, injection/spark 
+timing, memory management, CPU optimization, multi-core design and 
+implementation. In addition, some areas of work include developing scripts 
+in Python/Visual Basic for automation.
+Software Validation/Verification for Electronic Systems :  Verify 
+functionality of a feature or control system algorithm on a HIL [ Hardware in 
+the Loop] simulator bench or a SIL [Software in the loop] system. Understand requirements of the feature and/or the schematics of the controller/control 
+system, verify functionality and debug/report anomalies to the development 
+team and help validate fixes.
+Engineering Data Analytics :  Apply abilities to write and understand 
+computer code, use Python, perform analytics in real world applications.
+What You Have – Skills and Experiences
+In this role, you will have the opportunity to contribute your unique skills and 
+experiences. Below are some of the most critical skills.
+Analytical skills, initiating ideas, troubleshooting, root cause analysis, 
+problem-solving, and critical thinking capabilities
+Knowledge of engineering principles, theory, and engineering experience 
+gained through projects, internships, and/or relevant work experiences
+Fundamental understanding of engineering for a manufacturing 
+environment, ability to design and implement materials, structures, 
+machines, devices, systems and processes that safely realize a desired 
+objective or invention
+Organize and manage multiple projects simultaneously, ability to quickly 
+gain, and effectively apply new skills & knowledge
+Success in collaborating with others of diverse cultures, interpersonal styles, 
+and abilities
+Strong written, and verbal communication skills
+Participate in, and build on our inclusive, constructive, and productive work 
+environment 
+Ensure all team member’s contributions are recognized and values​
+Degree Requirements:
+Bachelor's degree in Aerospace/Aeronautical, Agricultural, Electrical, 
+Computer, or Mechanical Engineering from an ABET-accredited institution.
+Other Requirements:
+Minimum cumulative Grade Point Average of 3.0/4.0 (no rounding) at current 
+institution
+Expected graduation date December 2022 - August 2024
+Must be willing to travel and relocate domesticallyTop candidates will also have:
+Involvement with a campus design/competition teams or related experience
+Project or Team Leadership experience
+Previous technical internship/co-op or relevant experience
+Excellent interpersonal and communication skills
+Additional Information:
+Please attach your resume and an unofficial copy of your transcript to your 
+application.
+Applicants will be considered for positions throughout the United States.
+Relocation is available.
+Sponsorship is NOT available for this position.
+These positions will be in the Peoria, Illinois, area , with a small number of 
+positions in other locations
+Employee benefit details:
+Annual incentive bonus plan *
+Medical, dental, and vision coverage
+Paid time off plan (Vacation, Holiday, Volunteer, Etc.)
+401k savings plan
+Health savings account (HSA)
+Flexible spending accounts (FSAs)
+Short and long-term disability coverage,
+Life Insurance
+Paid parental leave
+Healthy Lifestyle Programs
+Employee Assistance Programs
+Voluntary Benefits (Ex. Accident,  Identity Theft Protection)
+*Subject to annual eligibility and incentive plan guidelines .
+Final details:
+Please frequently check the email associated with your application, including the 
+junk/spam folder, as this is the primary correspondence method. If you wish to 
+know the status of your application – please use the candidate log-in on our career 
+website as it will reflect any updates to your status.For more information, visit caterpillar.com. To connect with us on social media, visit 
+caterpillar.com/social-media.
+#LI
+Relocation is available for this position.Visa Sponsorship is not available for this 
+position. This employer is not currently hiring foreign national applicants that 
+require or will require sponsorship tied to a specific employer, such as, H, L, TN, F, J, 
+E, O. As a global company, Caterpillar offers many job opportunities outside of the 
+U.S which can be found through our employment website at 
+www.caterpillar.com/careers.
+Posting Dates:
+March 18, 2024 - March 31, 2024
+Any offer of employment is conditioned upon the successful completion of a drug 
+screen.   
+EEO/AA Employer.  All qualified individuals - Including minorities, females, veterans 
+and individuals with disabilities - are encouraged to apply.
+Not ready to apply? Join our Talent Community 

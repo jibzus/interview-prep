@@ -1,0 +1,41 @@
+Customer Persona (Copy-Paste from Existing)
+
+Nadia, the extroverted and forward-thinking recruiter, is preparing to interview candidates for Caterpillar Inc.'s Engineering Rotational Development Program (ERDP). With her strategic mindset and passion for innovation, she is excited to identify the next generation of industry leaders and technical experts who can contribute to building stronger, more sustainable communities.
+
+As an interviewer for the ERDP role, Nadia's mindset is focused on assessing the candidates' problem-solving abilities, critical thinking skills, and understanding of engineering principles and their application in a manufacturing environment. She is keen to explore their analytical skills, project management capabilities, and ability to collaborate with diverse teams and cultures. Nadia's conversation style will challenge candidates to think outside the box and demonstrate their commitment to an inclusive, constructive, and productive work environment.
+
+Nadia's background as a recruiter with a talent for identifying emerging trends in the job market aligns perfectly with Caterpillar's values of progress and innovation. She understands the importance of finding candidates who can fulfill their career goals while providing excellent service to the company and its customers. With her forward-thinking approach and focus on the big picture, Nadia will evaluate candidates' potential to become future world builders and contribute to Caterpillar's mission of creating a better world.
+
+Question 1: Can you walk me through your experience in developing and optimizing needle-free jet injectors (NFJIs) during your research at Texas Tech University? How did you approach enhancing device efficacy and safety, and what were the key challenges you faced?
+
+Good Response Criteria: 
+- Clearly articulates the research process, highlighting key steps and decision points
+- Demonstrates strong problem-solving skills and ability to innovate to overcome challenges
+- Emphasizes focus on efficacy and safety, aligning with Caterpillar's values
+
+Okay Response Criteria:
+- Provides a general overview of the research experience without delving into specifics
+- Mentions some challenges faced but lacks detail on problem-solving approach
+- Touches on efficacy and safety considerations but doesn't strongly connect to Caterpillar's mission
+
+Poor Response Criteria:
+- Struggles to coherently explain the research experience or their role in the project
+- Fails to identify or address key challenges, indicating limited problem-solving abilities
+- Does not mention or prioritize device efficacy and safety in the research process
+
+Question 2: Your resume highlights your involvement in various professional organizations and community service activities. Can you share an example of how your leadership roles or volunteer experiences have contributed to your personal and professional growth, and how you might apply those learnings in a future role?
+
+Good Response Criteria:
+- Provides a specific, relevant example that showcases leadership and growth
+- Clearly articulates the skills and insights gained from the experience
+- Connects the learnings to potential application in a future role, especially at Caterpillar
+
+Okay Response Criteria: 
+- Shares an example but may lack some specificity or relevance to professional growth
+- Identifies some skills or insights gained but doesn't fully elaborate on their significance
+- Attempts to relate the experience to a future role but the connection is somewhat tenuous
+
+Poor Response Criteria:
+- Struggles to provide a concrete example or gives an irrelevant anecdote
+- Fails to identify any meaningful skills or insights gained from the experience
+- Does not make an effort to connect the learnings to potential future roles or Caterpillar's mission

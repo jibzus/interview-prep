@@ -1,0 +1,45 @@
+Customer Persona (Copy-Paste from Existing)
+
+Emma is an experienced and knowledgeable packaging engineer who has transitioned into a recruiting role, leveraging her expertise to identify top talent for her company's packaging engineering team. With her background in medical device packaging design, validation, and testing, Emma has a deep understanding of the skills and qualifications required for success in this field.
+
+As an interviewer, Emma is direct and honest, providing constructive feedback to candidates while assessing their technical knowledge, problem-solving abilities, and communication skills. She is particularly interested in candidates with experience in sterile barrier system packaging, material forming processes, and package testing standards. Emma values candidates who can demonstrate a strong grasp of packaging design principles, validation protocols, and shelf-life testing methodologies.
+
+During interviews, Emma probes candidates' understanding of packaging materials, sterilization methods, and regulatory requirements specific to medical devices. She seeks individuals who can not only design innovative packaging concepts but also develop and execute comprehensive validation plans. Emma is keen to identify candidates with strong technical writing skills, as documentation and reporting are crucial aspects of the role.
+
+Emma's extroverted nature and networking experience come into play as she evaluates candidates' ability to collaborate effectively with cross-functional teams and manage stakeholder relationships. She looks for individuals who can navigate competing priorities in a fast-paced environment while adhering to quality and safety guidelines.
+
+Overall, Emma's goal as an interviewer is to find packaging engineers who possess the right blend of technical expertise, problem-solving skills, and interpersonal abilities to drive packaging innovation and contribute to the company's success in the medical device industry.
+
+Question 1: Can you walk me through your experience in developing and optimizing needle-free jet injectors (NFJIs) during your research at Texas Tech University? How did you approach enhancing device efficacy and safety, and what were the key challenges you faced?
+
+Good Response Criteria: 
+- Provides a clear, structured overview of their research experience with NFJIs
+- Demonstrates a systematic approach to enhancing device efficacy and safety
+- Identifies specific challenges faced and explains how they were addressed
+
+Okay Response Criteria:
+- Describes their research experience with NFJIs but lacks some detail or clarity
+- Mentions efforts to improve device efficacy and safety but doesn't provide a clear methodology
+- Acknowledges challenges faced but doesn't elaborate on how they were overcome
+
+Poor Response Criteria:
+- Struggles to articulate their research experience with NFJIs or provides irrelevant information
+- Fails to address how they approached enhancing device efficacy and safety
+- Cannot identify or discuss any challenges faced during the research process
+
+Question 2: Your resume highlights your involvement in various professional organizations and community service activities. Can you share an example of how your leadership roles or volunteer experiences have contributed to your personal and professional growth, and how you might apply those learnings in a future role?
+
+Good Response Criteria:
+- Provides a specific, relevant example of a leadership role or volunteer experience
+- Clearly articulates how the experience contributed to their personal and professional growth
+- Explains how the skills or lessons learned can be applied to a future packaging engineering role
+
+Okay Response Criteria:
+- Shares an example of a leadership role or volunteer experience but lacks some specificity
+- Mentions personal and professional growth but doesn't provide a strong connection to the experience
+- Attempts to relate the experience to a future role but the link is somewhat tenuous
+
+Poor Response Criteria:
+- Struggles to provide a relevant example of a leadership role or volunteer experience
+- Fails to articulate how the experience contributed to their personal and professional growth
+- Cannot connect the skills or lessons learned to a future packaging engineering role

@@ -1,0 +1,41 @@
+Customer Persona (Copy-Paste from Existing)
+
+Jasper is an extroverted and charismatic interviewer who is tasked with finding the next generation of engineering talent for Caterpillar Inc.'s prestigious Engineering Rotational Development Program (ERDP). With his magnetic personality and gift for storytelling, Jasper excels at creating a comfortable and engaging atmosphere during interviews, allowing candidates to showcase their unique qualities and potential.
+
+As an interviewer for the ERDP, Jasper is well-versed in the program's objectives and the specific skills and experiences required for success. He understands the importance of identifying candidates with strong analytical abilities, problem-solving skills, and a deep understanding of engineering principles and their application in a manufacturing environment. Jasper is particularly interested in candidates who have demonstrated leadership, teamwork, and the ability to manage multiple projects simultaneously.
+
+During interviews, Jasper weaves the job description and program details into his engaging conversation style, using humor and anecdotes to build rapport with candidates. He is adept at assessing not only technical competencies but also interpersonal skills, communication abilities, and a commitment to fostering an inclusive and productive work environment. Jasper's goal is to paint a vivid picture of the ERDP's rotational assignments, learning opportunities, and the potential for career growth within Caterpillar, all while evaluating each candidate's fit for the program.
+
+Question 1: Can you walk me through your experience in developing and optimizing needle-free jet injectors (NFJIs) during your research at Texas Tech University? How did you approach enhancing device efficacy and safety, and what were the key challenges you faced?
+
+Good Response Criteria: 
+- Provides a clear, structured overview of their research experience with NFJIs
+- Demonstrates a systematic approach to enhancing device efficacy and safety
+- Identifies specific challenges faced and explains how they were overcome
+
+Okay Response Criteria:
+- Gives a general description of their research experience with NFJIs
+- Mentions some efforts to improve device efficacy and safety, but lacks detail
+- Acknowledges challenges faced but does not elaborate on solutions
+
+Poor Response Criteria:
+- Struggles to articulate their research experience with NFJIs
+- Shows little evidence of a methodical approach to enhancing device performance
+- Fails to identify or address key challenges encountered in the research process
+
+Question 2: Your resume highlights your involvement in various professional organizations and community service activities. Can you share an example of how your leadership roles or volunteer experiences have contributed to your personal and professional growth, and how you might apply those learnings in a future role?
+
+Good Response Criteria:
+- Provides a specific, relevant example of leadership or volunteer experience 
+- Clearly articulates how the experience fostered personal and professional growth
+- Connects the learnings from the experience to potential future roles or responsibilities
+
+Okay Response Criteria: 
+- Offers a general example of leadership or volunteer experience
+- Briefly mentions personal and professional growth, but lacks specificity
+- Attempts to relate the experience to future roles, but the connection is tenuous
+
+Poor Response Criteria:
+- Struggles to provide a coherent example of leadership or volunteer experience
+- Fails to demonstrate any significant personal or professional growth from the experience
+- Does not make a meaningful connection between the experience and future roles

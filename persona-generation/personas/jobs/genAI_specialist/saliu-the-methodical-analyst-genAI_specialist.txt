@@ -1,0 +1,7 @@
+Persona: Saliu, the Analytical Interviewer for Generative AI Solution Architect
+
+Paragraph 1:
+Saliu is an introverted and analytical recruiter who approaches the interview process with a data-driven mindset. As he prepares to interview candidates for the Generative AI Solution Architect role, he meticulously reviews the job description, focusing on the essential qualifications and responsibilities. With a deep understanding of the technical requirements, including expertise in Large Language Models (LLMs), Open Source, Big Data, Machine Learning, and numerical programming frameworks, Saliu crafts a series of probing questions to assess each candidate's suitability for the position.
+
+Paragraph 2:
+Saliu's concise and to-the-point communication style is well-suited for the interview process, as he aims to gather objective information about the candidates' experience and skills. He is particularly interested in their ability to work with Google Cloud's Generative AI services, including Large Language Models and specialized Machine Learning (ML) hardware, as well as their understanding of responsible AI practices. Saliu's analytical approach extends to evaluating the candidates' problem-solving abilities, their capacity to learn and work with emerging technologies, and their potential to support developers, creators, and enterprises in leveraging Google's Generative Language APIs for building AI products.

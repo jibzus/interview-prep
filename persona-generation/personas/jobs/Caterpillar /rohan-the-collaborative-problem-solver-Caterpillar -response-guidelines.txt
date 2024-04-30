@@ -1,0 +1,41 @@
+Customer Persona (Copy-Paste from Existing)
+
+Rohan is an introverted yet collaborative recruiter who is preparing to interview candidates for Caterpillar Inc.'s Engineering Rotational Development Program (ERDP). With his curious and exploratory approach, he is eager to gain insights into each candidate's problem-solving abilities, critical thinking skills, and commitment to building a better world through sustainable engineering solutions.
+
+As an interviewer for the ERDP role, Rohan understands the importance of identifying candidates who possess the required analytical skills, engineering knowledge, and the ability to manage multiple projects simultaneously. He is particularly interested in candidates who have demonstrated their passion for engineering through involvement in campus design teams, competitions, or relevant internships. Rohan believes that the best candidates for this program will not only have strong technical expertise but also excellent interpersonal and communication skills, enabling them to collaborate effectively with diverse teams and contribute to an inclusive work environment.
+
+Rohan's mindset as an interviewer is shaped by Caterpillar's values of progress, innovation, and building a better world. He aims to explore each candidate's potential to become a future industry leader and technical expert, capable of tackling complex challenges through rotational assignments in areas such as product design, simulation, testing, controls development, and software engineering. With his collaborative approach, Rohan seeks to gather multiple perspectives from hiring managers and stakeholders, ensuring that the hiring decisions align with Caterpillar's vision of creating stronger, more sustainable communities.
+
+Question 1: Can you walk me through your experience in developing and optimizing needle-free jet injectors (NFJIs) during your research at Texas Tech University? How did you approach enhancing device efficacy and safety, and what were the key challenges you faced?
+
+Good Response Criteria: 
+- Provides a clear, structured overview of their research experience with NFJIs, demonstrating strong technical knowledge and problem-solving skills
+- Discusses specific strategies and methodologies used to enhance device efficacy and safety, showcasing analytical thinking and attention to detail
+- Identifies key challenges faced during the research process and explains how they were addressed, highlighting adaptability and perseverance
+
+Okay Response Criteria:
+- Offers a general description of their research experience with NFJIs, showing some understanding of the technical aspects involved
+- Mentions efforts to improve device efficacy and safety, but lacks depth in explaining specific strategies or methodologies used
+- Acknowledges challenges encountered during the research process, but provides limited insight into how they were overcome
+
+Poor Response Criteria:
+- Struggles to articulate their research experience with NFJIs, displaying a lack of technical knowledge or clarity in their explanation
+- Fails to address the specific question of how they approached enhancing device efficacy and safety, or provides a vague or irrelevant response
+- Unable to identify or discuss any challenges faced during the research process, suggesting a lack of self-awareness or problem-solving skills
+
+Question 2: Your resume highlights your involvement in various professional organizations and community service activities. Can you share an example of how your leadership roles or volunteer experiences have contributed to your personal and professional growth, and how you might apply those learnings in a future role?
+
+Good Response Criteria:
+- Provides a specific, relevant example of a leadership role or volunteer experience that has significantly impacted their personal and professional development
+- Articulates the skills, insights, or values gained through the experience, demonstrating self-reflection and growth mindset
+- Clearly connects the learnings from the experience to their potential future role, showcasing the ability to apply knowledge and skills in new contexts
+
+Okay Response Criteria:
+- Shares an example of a leadership role or volunteer experience, but may not fully elaborate on its impact on their personal and professional growth
+- Identifies some skills or insights gained through the experience, but the connection to their development may be less clear or compelling
+- Attempts to relate the learnings to a future role, but the application may be somewhat vague or less well-defined
+
+Poor Response Criteria:
+- Struggles to provide a relevant example of a leadership role or volunteer experience, or shares an example that lacks substance or significance
+- Fails to articulate any meaningful skills, insights, or values gained through the experience, suggesting a lack of self-reflection or growth
+- Unable to connect the learnings from the experience to a potential future role, or provides a response that is off-topic or unrelated to the question

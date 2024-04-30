@@ -1,0 +1,40 @@
+# Job Overview
+
+- Join Intel to build cutting-edge computing technologies that shape the future
+- Work in the Logic Technology Development (LTD) organization, delivering latest process technology innovations
+- Foster a collaborative, supportive, and exciting environment with brilliant minds
+
+# Responsibilities
+
+- Define and develop procedures, equipment configurations to maximize quality, availability, and output
+- Define projects to meet quality, reliability, cost, yield, productivity, and manufacturability requirements
+- Drive improvements in quality, reliability, cost, yield, process stability/capability, productivity, and safety
+- Develop solutions to problems using education, statistical knowledge, and problem-solving tools
+- Establish process control systems and sustain the module through volume ramp
+- Develop strategies to resolve difficult problems and establish systems for future issues
+- Design and execute experiments, analyze data to develop manufacturing processes
+- Work with industry partners and suppliers for equipment development, modifications, and maintenance
+- Install, qualify capacity at LTD site, and operate manufacturing line for revenue products
+- Participate in technology transfer to other Intel factories through training and audits
+
+# Qualifications
+
+### Minimum Qualifications
+- PhD in Electrical Engineering, Electrical Computer Engineering, Chemical Engineering, Material Science, Physics, Chemistry, Computer Science, or Semiconductor-related STEM field (focus on hands-on experimental research)
+- Ability to start within 8 months
+
+### Preferred Qualifications
+- Statistics, Statistical Process Control (SPC), Design of Experiments (DOE) principles, and engineering analysis tools
+- Experimental lab work
+- Semiconductor and transistor device physics
+- Advanced transistor device structures, architectures, and fabrication processes
+- Data analysis skills, constructing clear data-based problem statements
+- Semiconductor processing fundamentals (lithography, etch, deposition, CMP, etc.)
+- Design of experiments
+- Materials and physical device characterization (SEM, TEM, etc.), semiconductor device testing fundamentals
+- Statistical and data analysis skills (MATLAB, Excel, JMP, etc.)
+
+# Benefits
+- Excellent medical plans, wellness programs, amenities, time off, recreational activities
+- Discounts on various products and services
+- Creative rewards that make Intel a Great Place to Work

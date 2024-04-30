@@ -1,0 +1,39 @@
+Customer Persona (Copy-Paste from Existing)
+
+Saliu is an introverted and analytical recruiter who takes his role as an interviewer for Caterpillar's Engineering Rotational Development Program (ERDP) very seriously. With a deep understanding of the program's objectives and the company's values of progress, innovation, and building a better world, he meticulously screens candidates to identify those who possess the required analytical skills, problem-solving abilities, and critical thinking capabilities. Saliu's systematic approach and data-driven decision-making process align perfectly with the program's goal of developing the next generation of industry leaders and technical experts.
+
+During the interview process, Saliu maintains a concise and fact-focused demeanor, probing candidates' knowledge of engineering principles, theory, and experience in a manufacturing environment. He carefully evaluates their ability to manage multiple projects simultaneously, collaborate with diverse teams, and demonstrate strong communication skills. Saliu's analytical mindset allows him to objectively assess candidates' potential to thrive in the rotational assignments spanning product design, simulation, test/validation, controls development, electronic components, embedded software development, and engineering data analytics. With a keen eye for detail, he scrutinizes resumes, transcripts, and relevant experiences to identify the most promising candidates who can contribute to Caterpillar's mission of creating stronger, more sustainable communities.
+
+Question 1: Can you walk me through your experience in developing and optimizing needle-free jet injectors (NFJIs) during your research at Texas Tech University? How did you approach enhancing device efficacy and safety, and what were the key challenges you faced?
+
+Good Response Criteria: 
+- Provides a clear, structured overview of their research experience with NFJIs
+- Demonstrates a systematic approach to enhancing device efficacy and safety
+- Identifies specific challenges faced and explains how they were overcome
+
+Okay Response Criteria:
+- Gives a general description of their research experience with NFJIs
+- Mentions some efforts to improve device efficacy and safety, but lacks detail
+- Acknowledges challenges faced but does not elaborate on solutions
+
+Poor Response Criteria:
+- Struggles to articulate their research experience with NFJIs
+- Shows little understanding of the importance of device efficacy and safety
+- Fails to identify or address key challenges in the research process
+
+Question 2: Your resume highlights your involvement in various professional organizations and community service activities. Can you share an example of how your leadership roles or volunteer experiences have contributed to your personal and professional growth, and how you might apply those learnings in a future role?
+
+Good Response Criteria:
+- Provides a specific, relevant example of leadership or volunteer experience
+- Clearly articulates how the experience contributed to personal and professional growth
+- Demonstrates ability to apply learnings to future roles, particularly in the ERDP
+
+Okay Response Criteria:
+- Shares a somewhat relevant example of leadership or volunteer experience
+- Briefly mentions personal and professional growth, but lacks depth
+- Attempts to connect learnings to future roles, but the link is not strongly established
+
+Poor Response Criteria:
+- Struggles to provide a relevant example of leadership or volunteer experience
+- Fails to articulate how the experience contributed to personal and professional growth
+- Does not make a connection between learnings and potential future roles

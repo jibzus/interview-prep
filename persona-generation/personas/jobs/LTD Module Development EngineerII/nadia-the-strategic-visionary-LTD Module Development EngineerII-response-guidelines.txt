@@ -1,0 +1,67 @@
+Customer Persona (Copy-Paste from Existing)
+
+Nadia is an extroverted and forward-thinking recruiter who is preparing to interview candidates for a cutting-edge role at Intel's Logic Technology Development (LTD) organization. With her strategic mindset and passion for innovation, Nadia is excited to find brilliant minds to join Intel in delivering the latest process technology innovations. She is looking for candidates with deep technical expertise in areas like semiconductor device physics, advanced transistor architectures, and semiconductor processing fundamentals. Nadia's interviewing style challenges candidates to think big picture about shaping the future of computing technologies.
+
+At the same time, Nadia will probe for hands-on experimental research experience, strong data analysis abilities, and a proven track record of driving process improvements. She wants to find collaborative team players who can thrive in Intel's supportive environment while tackling difficult problems, designing and executing experiments, and developing robust process control systems. With her talent for aligning people with future-focused roles, Nadia is determined to identify candidates who can maximize quality, reliability, and output for Intel's cutting-edge manufacturing lines. Her goal is to find innovators energized by Intel's mission to build world-changing technologies.
+
+Question 1: Can you describe a complex engineering problem you have faced and how you approached solving it through critical thinking and analytical skills?
+
+Good Response Criteria: 
+- Clearly articulates a specific, complex engineering problem with relevant technical details
+- Demonstrates a structured problem-solving approach using critical thinking and analytical skills
+- Highlights the impact of the solution on project outcomes or organizational goals
+
+Okay Response Criteria:
+- Describes a moderately complex engineering problem with some technical details
+- Shows a general problem-solving approach using some critical thinking and analytical skills
+- Mentions the solution's impact on the project or team
+
+Poor Response Criteria:
+- Presents a vague or overly simplistic engineering problem lacking technical depth
+- Lacks a clear problem-solving approach or application of critical thinking and analytical skills
+- Does not address the impact of the solution on project outcomes or organizational goals
+
+Question 2: How do you prioritize and manage multiple projects simultaneously while ensuring effective collaboration with diverse teams?
+
+Good Response Criteria:
+- Outlines a clear strategy for prioritizing projects based on urgency, impact, and alignment with goals
+- Demonstrates effective time management techniques and tools for tracking progress
+- Emphasizes the importance of clear communication, regular check-ins, and adaptability in collaborating with diverse teams
+
+Okay Response Criteria:
+- Describes a general approach to prioritizing projects based on some criteria
+- Mentions some time management techniques or tools used for tracking progress
+- Acknowledges the importance of communication and collaboration with diverse teams
+
+Poor Response Criteria:
+- Lacks a clear strategy or criteria for prioritizing projects effectively
+- Does not address time management techniques or tools for tracking progress
+- Fails to recognize the importance of communication and collaboration with diverse teams
+
+Question 3: What experience do you have working in a manufacturing environment, and how have you applied engineering principles and theory in that context?
+
+Good Response Criteria:
+- Provides specific examples of experience working in a manufacturing environment
+- Demonstrates the application of relevant engineering principles and theory to optimize processes, improve quality, or solve problems
+- Highlights the impact of their contributions on manufacturing outcomes or performance metrics
+
+Okay Response Criteria:
+- Mentions some experience working in a manufacturing environment
+- Describes the general application of engineering principles and theory in a manufacturing context
+- Briefly mentions the impact of their contributions on manufacturing processes or outcomes
+
+Poor Response Criteria:
+- Lacks experience working in a manufacturing environment or provides irrelevant examples
+- Fails to demonstrate the application of engineering principles and theory in a manufacturing context
+- Does not address the impact of their contributions on manufacturing outcomes or performance metrics
+
+Question 4: Can you walk me through your experience in developing and optimizing needle-free jet injectors (NFJIs) during your research at Texas Tech University? How did you approach enhancing device efficacy and safety, and what were the key challenges you faced?
+
+Good Response Criteria:
+- Provides a clear and detailed overview of their experience developing and optimizing NFJIs
+- Demonstrates a systematic approach to enhancing device efficacy and safety through research, testing, and iteration
+- Identifies specific key challenges faced and explains how they were addressed using technical expertise and problem-solving skills
+
+Okay Response Criteria:
+- Gives a general overview of their experience with NFJIs without delving into technical details
+- Mentions some efforts to enhance device efficacy and safety but lacks a clear, systematic approach

@@ -1,0 +1,73 @@
+Customer Persona (Copy-Paste from Existing)
+
+Rohan is an introverted but collaborative interviewer for a Process Engineer role at Intel's cutting-edge Logic Technology Development (LTD) organization. With his curious and exploratory mindset, Rohan aims to identify brilliant candidates who can drive innovations in semiconductor manufacturing processes. He believes the best hiring decisions arise from considering diverse perspectives, so he enjoys posing hypothetical scenarios to candidates to understand their problem-solving approaches. 
+
+As an interviewer, Rohan is well-versed in the technical qualifications for the role, including expertise in semiconductor device physics, processing fundamentals, statistical analysis, and experimental design. However, he also emphasizes evaluating candidates' ability to develop creative solutions, foster collaboration, and resolve complex challenges. Rohan frequently consults with LTD hiring managers to align on priorities and ensure Intel brings in top talent to deliver next-generation computing technologies. Drawing from his experience mentoring underrepresented youth, Rohan strives to create an engaging and supportive interview experience for all candidates.
+
+Question 1: Can you describe a complex engineering problem you have faced and how you approached solving it through critical thinking and analytical skills?
+
+Good Response Criteria: 
+- Clearly articulates a specific, relevant complex engineering problem
+- Demonstrates structured problem-solving approach using critical thinking and analysis
+- Highlights key insights gained and measurable impact of the solution
+
+Okay Response Criteria:
+- Describes a somewhat relevant engineering problem with moderate complexity 
+- Shows some evidence of critical thinking and analysis in problem-solving
+- Mentions outcomes of the solution without quantifiable details
+
+Poor Response Criteria:
+- Discusses an overly simplistic or irrelevant engineering problem
+- Lacks clear evidence of critical thinking or analytical problem-solving skills
+- Fails to address the results or impact of the proposed solution
+
+Question 2: How do you foster an inclusive, constructive, and productive work environment when collaborating with diverse teams and cultures?
+
+Good Response Criteria:
+- Provides concrete examples of promoting inclusivity and valuing diverse perspectives
+- Demonstrates active listening, empathy and adaptability to work with different cultures
+- Emphasizes constructive communication and creating psychological safety for all
+
+Okay Response Criteria: 
+- Discusses diversity and inclusion at a high level without specific examples
+- Shows some understanding of cultural differences and need for adaptability
+- Mentions importance of positive team dynamics without elaborating on "how"
+
+Poor Response Criteria:
+- Fails to recognize the value of diversity and inclusion in collaborative work
+- Lacks cultural sensitivity or adaptability to work with different backgrounds
+- Ignores aspects of fostering a constructive and psychologically safe team climate
+
+Question 3: What experience do you have working in a manufacturing environment, and how have you applied engineering principles and theory in that context?
+
+Good Response Criteria:
+- Details relevant experience working in a manufacturing setting, ideally semiconductors
+- Shares examples of applying specific engineering principles to solve manufacturing issues
+- Connects manufacturing work with broader business goals and product quality
+
+Okay Response Criteria:
+- Has some exposure to manufacturing environments, but not directly in engineering role
+- Provides high-level examples of using engineering mindset in manufacturing
+- Shows basic understanding of the link between manufacturing and business objectives
+
+Poor Response Criteria:
+- Lacks any hands-on experience or exposure to real-world manufacturing 
+- Struggles to cite instances of applying engineering principles in manufacturing context
+- Fails to recognize the connection between manufacturing processes and end products
+
+Question 4: Can you provide an example of a time when you had to quickly learn a new skill or technology to complete a project, and how did you approach that learning process?
+
+Good Response Criteria:
+- Offers a compelling example of rapidly acquiring a new skill or technology for a project
+- Outlines a proactive, self-directed learning approach using multiple modalities
+- Emphasizes ability to apply the newly learned skill to achieve project success
+
+Okay Response Criteria:
+- Shares an example of learning something new, but not under tight project timelines
+- Shows some initiative in learning process, but heavily relies on formal training
+- Discusses applying the new skill/technology, but without clear tie to project outcomes
+
+Poor Response Criteria: 
+- Cannot provide a concrete example of learning a new skill or technology for a project
+- Takes a passive approach to learning, expecting others to spoon-feed information
+- Fails to mention applying the newly acquired skill/knowledge to project completion

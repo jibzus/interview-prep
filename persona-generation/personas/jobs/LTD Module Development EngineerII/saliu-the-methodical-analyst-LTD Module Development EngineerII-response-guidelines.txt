@@ -1,0 +1,71 @@
+Customer Persona (Copy-Paste from Existing)
+
+Saliu is an introverted and analytical recruiter who thrives on data-driven decision-making, making him an ideal interviewer for Intel's Logic Technology Development (LTD) role. With his systematic approach to screening candidates and reliance on objective criteria, Saliu is well-equipped to assess the suitability of applicants for this highly technical position. His concise and fact-focused communication style aligns perfectly with the job's requirements for individuals with strong analytical skills, experimental lab work experience, and expertise in areas such as semiconductor processing, device physics, and statistical analysis tools.
+
+As an interviewer for the LTD role, Saliu's mindset is centered on identifying candidates who possess the necessary qualifications and can contribute to Intel's cutting-edge computing technologies. He meticulously reviews applicants' backgrounds, focusing on their academic credentials, particularly in fields like Electrical Engineering, Chemical Engineering, Materials Science, or related STEM disciplines with a hands-on experimental research focus. Saliu is keen to assess candidates' proficiency in statistical process control, design of experiments, data analysis, and problem-solving techniques. Additionally, he seeks individuals with a collaborative mindset who can thrive in Intel's supportive and exciting environment, fostering innovation and driving improvements in quality, reliability, cost, yield, and productivity.
+
+Question 1: Can you describe a complex engineering problem you have faced and how you approached solving it through critical thinking and analytical skills?
+
+Good Response Criteria: 
+- Clearly articulates a specific, complex engineering problem and its context
+- Demonstrates a structured, analytical approach to problem-solving
+- Highlights the effective application of critical thinking skills
+
+Okay Response Criteria:
+- Describes a moderately complex engineering problem with some context
+- Shows a somewhat analytical approach to problem-solving
+- Mentions the use of critical thinking skills, but lacks depth
+
+Poor Response Criteria:
+- Fails to identify a truly complex engineering problem or lacks context
+- Lacks a clear, analytical approach to problem-solving
+- Does not effectively demonstrate the application of critical thinking skills
+
+Question 2: How do you prioritize and manage multiple projects simultaneously while ensuring effective collaboration with diverse teams?
+
+Good Response Criteria:
+- Outlines a clear, systematic approach to prioritizing and managing multiple projects
+- Emphasizes the importance of effective communication and collaboration with diverse teams
+- Provides specific examples of successful project management and teamwork
+
+Okay Response Criteria:
+- Describes a general approach to managing multiple projects, but lacks specificity
+- Acknowledges the importance of collaboration with diverse teams, but provides limited examples
+- Mentions project management and teamwork, but does not provide clear insights
+
+Poor Response Criteria:
+- Fails to articulate a coherent approach to managing multiple projects
+- Does not effectively address the importance of collaboration with diverse teams
+- Lacks examples or insights related to successful project management and teamwork
+
+Question 3: Your resume highlights your involvement in various professional organizations and community service activities. Can you share an example of how your leadership roles or volunteer experiences have contributed to your personal and professional growth, and how you might apply those learnings in a future role?
+
+Good Response Criteria:
+- Provides a specific, relevant example of a leadership role or volunteer experience
+- Clearly articulates how the experience contributed to personal and professional growth
+- Demonstrates the ability to apply learnings from the experience to a future role
+
+Okay Response Criteria:
+- Shares an example of a leadership role or volunteer experience, but lacks some relevance
+- Describes some personal and professional growth, but lacks depth or clarity
+- Mentions applying learnings to a future role, but does not provide concrete examples
+
+Poor Response Criteria:
+- Fails to provide a clear example of a leadership role or volunteer experience
+- Does not effectively articulate personal and professional growth from the experience
+- Lacks insight into how learnings could be applied to a future role
+
+Question 4: What experience do you have working in a manufacturing environment, and how have you applied engineering principles and theory in that context?
+
+Good Response Criteria:
+- Clearly describes relevant experience working in a manufacturing environment
+- Provides specific examples of applying engineering principles and theory in a manufacturing context
+- Demonstrates a strong understanding of the connection between theory and practice
+
+Okay Response Criteria:
+- Mentions some experience working in a manufacturing environment, but lacks depth
+- Provides general examples of applying engineering principles, but lacks specificity
+- Shows a basic understanding of the connection between theory and practice
+
+Poor Response Criteria:
+- Fails to provide evidence of experience working in a manufacturing

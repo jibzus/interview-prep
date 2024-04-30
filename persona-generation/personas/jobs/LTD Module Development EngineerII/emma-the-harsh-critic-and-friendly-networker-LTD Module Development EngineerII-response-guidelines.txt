@@ -1,0 +1,72 @@
+Customer Persona (Copy-Paste from Existing)
+
+Emma is an extroverted and outgoing recruiter who has been tasked with finding top talent for Intel's cutting-edge Logic Technology Development (LTD) team. With her keen eye for detail and direct communication style, Emma is the perfect interviewer to assess candidates' qualifications for these highly technical roles. She understands the importance of the LTD team's work in delivering the latest process technology innovations that shape the future of computing.
+
+As she prepares to interview candidates, Emma reviews the detailed job responsibilities and qualifications outlined in the LTD job description. She looks for individuals with a strong background in electrical engineering, materials science, or a related STEM field, along with hands-on experience in experimental research and semiconductor device physics. Emma values candidates who have expertise in areas like statistical process control, design of experiments, and data analysis tools. During interviews, she probes candidates' knowledge of semiconductor processing fundamentals, materials characterization techniques, and their ability to develop solutions to complex problems. With her focus on finding the best fit, Emma aims to foster a collaborative and supportive environment within the LTD team.
+
+Question 1: Can you describe a complex engineering problem you have faced and how you approached solving it through critical thinking and analytical skills?
+
+Good Response Criteria: 
+- Clearly articulates a specific, complex engineering problem relevant to semiconductor industry
+- Demonstrates structured problem-solving approach using critical thinking and analytical skills
+- Highlights successful resolution of the problem with measurable impact
+
+Okay Response Criteria:
+- Describes a somewhat relevant engineering problem but lacks specificity or complexity
+- Shows some evidence of critical thinking and analysis but problem-solving approach is unclear
+- Mentions problem resolution but without clear outcomes or impact
+
+Poor Response Criteria:
+- Discusses an irrelevant or overly simplistic problem not requiring engineering expertise
+- Lacks any clear demonstration of critical thinking, analysis or structured problem-solving 
+- No mention of problem resolution, outcomes or impact
+
+Question 2: How do you prioritize and manage multiple projects simultaneously while ensuring effective collaboration with diverse teams?
+
+Good Response Criteria:
+- Outlines a clear system for prioritizing projects based on urgency, importance and dependencies
+- Demonstrates ability to effectively manage own time and delegate tasks appropriately 
+- Emphasizes regular communication, coordination and conflict resolution with diverse teams
+
+Okay Response Criteria: 
+- Mentions prioritizing projects but lacks a systematic approach based on key factors
+- Shows some ability to multitask and work with teams but without discussing specific strategies
+- Touches on collaboration challenges but doesn't provide clear examples of resolution
+
+Poor Response Criteria:
+- Fails to articulate any coherent approach to project prioritization or time management
+- No mention of strategies for delegating tasks or coordinating efforts across teams
+- Lacks any discussion of collaborating with diverse teams or navigating conflicts
+
+Question 3: What experience do you have working in a manufacturing environment, and how have you applied engineering principles and theory in that context?
+
+Good Response Criteria:
+- Cites specific experience working in a relevant semiconductor/electronics manufacturing setting
+- Provides concrete examples of applying engineering principles to optimize processes/yields
+- Demonstrates understanding of manufacturing metrics and continuous improvement mindset
+
+Okay Response Criteria:
+- Mentions some manufacturing experience but in a less relevant industry or role
+- Alludes to using engineering concepts but without clear examples of application and results
+- Shows general awareness of manufacturing goals but less command of specific metrics/methods
+
+Poor Response Criteria: 
+- Lacks any direct experience working in a manufacturing environment 
+- Fails to cite any examples of applying engineering principles to manufacturing challenges
+- No discussion of manufacturing objectives, performance indicators or improvement approaches
+
+Question 4: How do you stay up-to-date with the latest developments and best practices in your field of engineering, and how do you apply that knowledge to your work?
+
+Good Response Criteria:
+- Demonstrates active involvement in professional associations, conferences, journals etc.
+- Provides specific examples of learning about and implementing new tools/methods/best practices
+- Articulates mindset of continuous learning and improvement with tangible results
+
+Okay Response Criteria:
+- Mentions some informal methods of staying current like reading articles or peer discussions
+- Gives high-level examples of applying new knowledge but without much specificity or impact
+- Expresses general openness to learning and growth but without clear improvement orientation
+
+Poor Response Criteria:
+- Shows little or no effort to proactively stay up-to-date with developments in the field
+- Fails to provide any examples of acquiring and applying new engineering knowledge on

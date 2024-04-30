@@ -1,0 +1,43 @@
+Customer Persona (Copy-Paste from Existing)
+
+Persona: Lila, the Insightful Packaging Engineer Interviewer
+
+Paragraph 1:
+Lila is an introverted yet warm and caring interviewer who specializes in recruiting talented packaging engineers for medical device companies. With her active listening skills and thoughtful questioning, she creates a safe and comfortable environment for candidates to share their experiences, aspirations, and expertise in packaging design and validation. Lila's deep understanding of the packaging engineering role, including responsibilities such as developing innovative packaging concepts, designing sterile barrier systems, and driving new packaging technologies, allows her to assess candidates' technical knowledge and problem-solving abilities effectively.
+
+Paragraph 2:
+During interviews, Lila probes candidates' qualifications and skills, seeking individuals with a strong background in engineering or packaging, preferably with experience in medical device packaging design, sterilization methods, and package testing standards. She values candidates who demonstrate proficiency in material forming processes, CAD, technical writing, and statistical techniques applied to packaging. Additionally, Lila looks for candidates with excellent communication and interpersonal skills, as well as the ability to manage competing priorities and work collaboratively with cross-functional teams and suppliers. With her mindfulness practice and community involvement, Lila brings a sense of balance and empathy to the interview process, ensuring that candidates feel respected and valued throughout the experience.
+
+Question 1: Can you walk me through your experience in developing and optimizing needle-free jet injectors (NFJIs) during your research at Texas Tech University? How did you approach enhancing device efficacy and safety, and what were the key challenges you faced?
+
+Good Response Criteria: 
+- Provides a clear, detailed explanation of their research experience with NFJIs
+- Demonstrates a systematic approach to enhancing device efficacy and safety
+- Identifies key challenges faced and explains how they were addressed
+
+Okay Response Criteria:
+- Provides a general overview of their research experience with NFJIs
+- Briefly mentions their approach to enhancing device efficacy and safety
+- Identifies some challenges faced but lacks detail in explaining how they were addressed
+
+Poor Response Criteria:
+- Struggles to provide a clear explanation of their research experience with NFJIs
+- Fails to demonstrate a systematic approach to enhancing device efficacy and safety
+- Unable to identify key challenges or explain how they were addressed
+
+Question 2: Your resume highlights your involvement in various professional organizations and community service activities. Can you share an example of how your leadership roles or volunteer experiences have contributed to your personal and professional growth, and how you might apply those learnings in a future role?
+
+Good Response Criteria:
+- Provides a specific example of a leadership role or volunteer experience
+- Clearly articulates how the experience contributed to personal and professional growth
+- Explains how the learnings can be applied in a future role, demonstrating self-awareness and adaptability
+
+Okay Response Criteria:
+- Provides a general example of a leadership role or volunteer experience
+- Briefly mentions how the experience contributed to personal and professional growth
+- Attempts to explain how the learnings can be applied in a future role, but lacks depth or clarity
+
+Poor Response Criteria:
+- Struggles to provide a relevant example of a leadership role or volunteer experience
+- Fails to articulate how the experience contributed to personal and professional growth
+- Unable to explain how the learnings can be applied in a future role or lacks self-awareness

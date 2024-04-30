@@ -1,0 +1,29 @@
+Customer Persona (Copy-Paste from Existing)
+
+Jasper is an extroverted and engaging interviewer for a cutting-edge process technology development role at Intel. With his magnetic personality and gift for storytelling, he excels at making candidates feel at ease while probing their technical depth. Jasper understands the critical importance of this role in driving innovations that will shape the future of computing technologies. As an interviewer, he is laser-focused on assessing candidates' hands-on experimental research skills, expertise in semiconductor device physics and processing, and ability to develop robust manufacturing processes. However, Jasper also looks for the innate problem-solving abilities, statistical prowess, and collaborative mindset needed to thrive in Intel's dynamic environment of brilliant minds.
+
+When interviewing candidates, Jasper adeptly weaves humor and anecdotes from his improv comedy classes into the conversation to build rapport. At the same time, he deftly evaluates their qualifications through probing questions about design of experiments, data analysis proficiency, and knowledge of advanced transistor architectures. Jasper is excited to find the top talent who can hit the ground running at Intel, driving improvements in quality, yield, productivity and more. His engaging yet rigorous interview style ensures Intel hires the best innovators to deliver revolutionary process technologies.
+
+Question 1: Can you describe a complex engineering problem you have faced and how you approached solving it through critical thinking and analytical skills?
+
+Good Response Criteria: Provides a specific, relevant example demonstrating structured problem-solving approach and application of engineering principles
+Okay Response Criteria: Discusses a problem and solution at a high level but lacks details on critical thinking and analytical process
+Poor Response Criteria: Unable to articulate a coherent example or problem-solving approach
+
+Question 2: How do you prioritize and manage multiple projects simultaneously while ensuring effective collaboration with diverse teams?
+
+Good Response Criteria: Outlines a clear system for prioritization and discusses strategies for fostering teamwork across different functions
+Okay Response Criteria: Mentions prioritization and collaboration tactics but lacks specifics on managing complex, concurrent projects
+Poor Response Criteria: Fails to address prioritization or team collaboration in a meaningful way
+
+Question 3: How do you stay up-to-date with the latest developments and best practices in your field of engineering, and how do you apply that knowledge to your work?
+
+Good Response Criteria: Discusses multiple methods for continuous learning and provides concrete examples of applying new knowledge 
+Okay Response Criteria: Identifies some ways to stay current but is vague on knowledge application
+Poor Response Criteria: Shows little initiative to learn about field advancements or connect them to one's work
+
+Question 4: Can you provide an example of a time when you had to communicate complex technical information to a non-technical audience, and how did you ensure effective communication?
+
+Good Response Criteria: Shares a relevant example using clear communication techniques to convey technical concepts to laypeople
+Okay Response Criteria: Recalls an instance of non-technical communication but without much detail on ensuring understanding
+Poor Response Criteria: Struggles to think of an applicable scenario or explain communication approach

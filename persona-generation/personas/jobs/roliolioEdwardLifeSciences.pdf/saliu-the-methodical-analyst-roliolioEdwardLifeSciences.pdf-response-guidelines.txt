@@ -1,0 +1,43 @@
+Customer Persona (Copy-Paste from Existing)
+
+Persona: Saliu, the Analytical Packaging Engineer Interviewer
+
+Paragraph 1:
+Saliu is an introverted and analytical recruiter who has transitioned into the role of an interviewer for a Packaging Engineer position at a leading medical device company. With his data-driven approach and systematic screening process, he is well-equipped to assess candidates' suitability for this highly technical role. Saliu's analytical mindset aligns perfectly with the job's requirements, which include developing innovative packaging concepts, designing packaging solutions from concept to launch, and driving new packaging technologies and strategies to improve time to market.
+
+Paragraph 2:
+As an interviewer, Saliu's concise and fact-focused communication style will be instrumental in evaluating candidates' qualifications and skills. He will meticulously assess their knowledge of packaging materials, sterilization methods, testing standards, and material forming processes. Saliu's ability to solve complex puzzles will come in handy when probing candidates' problem-solving and critical thinking abilities, which are essential for this role. With his keen eye for detail and objective criteria, Saliu will thoroughly evaluate candidates' technical writing and documentation skills, as well as their understanding of statistical techniques and their application in packaging. Additionally, he will gauge their leadership potential, teamwork abilities, and adherence to Environmental Health and Safety and Quality guidelines – all crucial aspects of the Packaging Engineer position.
+
+Question 1: Can you walk me through your experience in developing and optimizing needle-free jet injectors (NFJIs) during your research at Texas Tech University? How did you approach enhancing device efficacy and safety, and what were the key challenges you faced?
+
+Good Response Criteria: 
+- Provides a clear, structured overview of their research experience with NFJIs
+- Demonstrates a systematic approach to enhancing device efficacy and safety
+- Identifies key challenges faced and explains how they were addressed
+
+Okay Response Criteria:
+- Gives a general description of their research experience with NFJIs
+- Mentions some efforts to improve device efficacy and safety, but lacks specificity
+- Acknowledges challenges faced but does not provide detailed solutions
+
+Poor Response Criteria:
+- Struggles to articulate their research experience with NFJIs
+- Shows little evidence of a methodical approach to enhancing device performance
+- Fails to identify or address key challenges encountered in the research process
+
+Question 2: Your resume highlights your involvement in various professional organizations and community service activities. Can you share an example of how your leadership roles or volunteer experiences have contributed to your personal and professional growth, and how you might apply those learnings in a future role?
+
+Good Response Criteria:
+- Provides a specific, relevant example of leadership or volunteer experience
+- Clearly articulates how the experience contributed to personal and professional growth
+- Demonstrates ability to apply learnings from the experience to a future role
+
+Okay Response Criteria:
+- Shares a somewhat relevant example of leadership or volunteer experience
+- Briefly mentions personal and professional growth, but lacks depth
+- Attempts to connect learnings to a future role, but the link is not strongly established
+
+Poor Response Criteria:
+- Struggles to provide a relevant example of leadership or volunteer experience
+- Fails to articulate how the experience contributed to personal and professional growth
+- Does not make a connection between learnings from the experience and a future role
