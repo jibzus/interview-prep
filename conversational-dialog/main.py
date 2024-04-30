@@ -17,6 +17,15 @@ def get_job_files(job_folder):
     criteria_files = [f for f in os.listdir(job_folder) if f.endswith('guidelines.txt')]
     return persona_files, criteria_files
 
+def convert_history_to_text(history):
+    """Convert JSON history into a human-readable text format."""
+    text_history = ""
+    for entry in history:
+        role = entry.get("role", "")
+        content = entry.get("content", "")
+        text_history += f"{role.capitalize()}: {content}\n\n"
+    return text_history
+
 def main():
     jobs_folder = "/Users/jibs/Documents/Projects /Idera and Interviews/interview-pilot-ai/persona-generation/personas/jobs"
     available_jobs = list_available_jobs(jobs_folder)
@@ -50,20 +59,25 @@ def main():
     interviewer.main()
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    
+    # Save history as a JSON file
     history_filename = f"{job_name}_{timestamp}_history.json"
     with open(history_filename, 'w') as file:
         json.dump(interviewer.history, file, indent=4)
 
-    # New code to save the history as a text file
-    history_text_filename = f"{job_name}_{timestamp}_history.txt"
-    with open(history_text_filename, 'w') as file:
-        for entry in interviewer.history:
-            file.write(f"{entry['question']} - {entry['answer']}\n")
-
+    # Convert history to a readable text format
+    text_history = convert_history_to_text(interviewer.history)
+    
+    # Save history as a text file
+    text_history_filename = f"{job_name}_{timestamp}_history.txt"
+    with open(text_history_filename, 'w') as file:
+        file.write(text_history)
+    
+    # Generate and print the summary
     summary = summarize_interview(interviewer.history, criteria)
     print(summary)
 
-    # New code to save the summary as a text file
+    # Save the summary to a text file
     summary_filename = f"{job_name}_{timestamp}_summary.txt"
     with open(summary_filename, 'w') as file:
         file.write(summary)
